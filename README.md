@@ -1,14 +1,19 @@
 # Bank simulation - Loops and Arrays
 
-This project is simulation of a Bank.
+This project is a simulation of a Bank.
 His got all the activities that you can do in the bank.
 
 
-### for getting this code for your on computer with an IDE
+### Installing
+Get this [Bank simulation project](https://github.com/Idanturjeman/ex_on_c_loops_and_arrays) to your own computer with your workspace directory
 
 ```sh
 $ git clone https://github.com/Idanturjeman/ex_on_c_loops_and_arrays.git
 
 ```
+### prerequisites for installing
 
+* [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+* [intllij](https://www.jetbrains.com/idea/) or some other IDE
 
+![alt text](https://www.business-smart.com/assets/images/ce12.jpg)
