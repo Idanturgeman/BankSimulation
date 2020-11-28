@@ -1,4 +1,4 @@
-# my_second_ex_on_c_loops_and_arrays
+# Bank simulation - Loops and Arrays
 
 This project is simulation of a Bank.
 His got all the activities that you can do in the bank.
