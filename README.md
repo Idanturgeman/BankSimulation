@@ -11,10 +11,7 @@ Get this [Bank simulation project](https://github.com/Idanturjeman/ex_on_c_loops
 $ git clone https://github.com/Idanturjeman/ex_on_c_loops_and_arrays.git
 
 ```
-### prerequisites for installing
 
-* [JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
-* [intllij](https://www.jetbrains.com/idea/) or some other IDE
 
 ![alt text](https://www.business-smart.com/assets/images/ce12.jpg)
 
