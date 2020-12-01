@@ -23,7 +23,6 @@ void putDouble(double *x){ // make sure that user insert a double
       printf("Pleas enter a real number\n");
   }
 }
-
  int main() {
   printf("Welcome to my online bank \nfor help in any time press H\n\n");
   bool exit = false;
