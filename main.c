@@ -28,6 +28,7 @@ int main() {
   printf("Welcome to my online bank \nfor help in any time press H\n\n");
   bool exit = false;
   while (!exit) {
+    printMenu();
     printf("Transaction type?\n");
     char act;
     scanf(" %c", &act);
