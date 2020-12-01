@@ -24,7 +24,7 @@ void putDouble(double *x){ // make sure that user insert a double
   }
 }
 
-int main() {
+ int main() {
   printf("Welcome to my online bank \nfor help in any time press H\n\n");
   bool exit = false;
   while (!exit) {
