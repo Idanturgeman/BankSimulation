@@ -186,5 +186,6 @@ void putDouble(double *x)
     }
     printf("\n");
   }
+  return 0;
 }
 
